@@ -17,7 +17,7 @@
 **Live links:**
 
 - Codepen - not yet
-- Hosted with Netlify - [https://quirky-brown-da843b.netlify.com/](https://quirky-brown-da843b.netlify.com/)
+
 
 # Notes
 
@@ -25,7 +25,7 @@ Prerequisites:
 
 - Must install Nodejs on your unit
 - Must install NPM on your unit
-- Install create-react-app installed to your node module ( check out [https://github.com/facebook/create-react-app](https://github.com/facebook/create-react-app) for how to install the framework)
+- Install create-react-app installed to your node module 
 - Have a basic understanding of Javascript (ES6)
 - Have a basic knowledge about React.js framework
 
