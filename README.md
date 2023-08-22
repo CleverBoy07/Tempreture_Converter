@@ -14,8 +14,6 @@
 - CSS
 - HTML
 
-**Live links:**
-
 - Codepen - not yet
 
 
